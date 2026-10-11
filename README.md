@@ -35,7 +35,7 @@ Refer to releases folder, or:
 Requires KDE Plasma 6 with KWin on Wayland (tested on 6.7).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kwin-window-groups.git
+git clone https://github.com/HiluaGhoest/kwin-window-groups.git
 cd kwin-window-groups
 kpackagetool6 --type KWin/Script -i .
 ```
