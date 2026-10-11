@@ -4,8 +4,7 @@ Group windows logically on KDE Plasma 6: one Alt+Tab entry per group, while
 each window keeps its own position and size on screen. Activating any member
 brings the whole group forward together.
 
-Built because Plasma 6 removed KWin's old window tabbing, and stacking
-windows on top of each other wasn't what we wanted. Sometimes you just want
+Built because Plasma 6 removed KWin's old window tabbing. Sometimes you just want
 Firefox and your textbook to travel together without being glued together.
 
 ## What it does
