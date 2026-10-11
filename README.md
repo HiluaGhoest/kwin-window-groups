@@ -30,6 +30,8 @@ Firefox and your textbook to travel together without being glued together.
 
 ## Install
 
+Refer to releases folder, or:
+
 Requires KDE Plasma 6 with KWin on Wayland (tested on 6.7).
 
 ```bash
